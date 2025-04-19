@@ -1,19 +1,21 @@
-# 💫 About Me
-🔭 I’m currently working on **Creative Innovations**  
-👯 I’m looking to collaborate on **Web Projects**  
-🤝 I’m looking for help with **IT Services**  
-🌱 I’m currently learning **Python**  
-💬 Ask me about **Programming**  
-⚡ Fun fact: I'm also a **Poet**
+# 💫 About Us
 
-## 🌐 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itzmuhammadjazib)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itxmuhammadjazib)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdjazib)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mjxdex)
+🔭 We’re currently working on **Creative Innovations**  
+👯 We love to collaborate on **Web Projects**  
+🤝 We help businesses with **IT Services & Solutions**  
+🌱 We're continuously learning & exploring new tools like **Python**  
+💬 Talk to us about **Web Development, UI/UX, APIs & More**  
+⚡ Fun fact: We’re also passionate about **Art & Poetry**
+
+## 🌐 Connect with Us  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itzmuhammadjazib)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itxmuhammadjazib)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdjazib)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mjxdex)  
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mdjazib)
 
 ## 💻 Tech Stack
+
 <!-- Frontend -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -49,9 +51,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=mdjazib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdjazib&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjazib&theme=dark&hide_border=false&layout=compact)
 
 ---
-
