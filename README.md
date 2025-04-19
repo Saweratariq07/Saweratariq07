@@ -69,10 +69,10 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=techxion&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=techxion&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techxion&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mdjazib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdjazib&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjazib&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-### ✨ Powered by [Techxicon](https://github.com/techxicon)
+### ✨ Powered by [Techxicon](https://github.com/mdjazib)
