@@ -54,27 +54,6 @@ I’ve worked on **personal projects, startups, and freelance clients**, helping
 |-------|-----------|-------|-----|--------|
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) | ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
 
----
-
-## 📞 Contact Me
-
-📩 **Email:** [saweratariqdev@gmail.com](mailto:saweratariqdev@gmail.com)  
-🌐 **Portfolio:** [saweratariq07.github.io](https://saweratariq07.github.io)  
-📲 **WhatsApp / Direct:** [+92-XXX-XXXXXXX]  
-
-💬 DM me for: `Full Stack Projects` • `Landing Pages` • `Business Websites` • `Dashboards` • `Portfolio Sites` • `Cloning Projects` • `Code Fixes`
-
----
-
-## 🌐 Social Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saweratariq07)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saweratariq07)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saweratariq07)  
-
----
-
-## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=saweratariq07&theme=tokyonight&show_icons=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saweratariq07&theme=tokyonight)  
